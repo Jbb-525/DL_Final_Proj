@@ -3,6 +3,4 @@ probe_wall val loss: {7.242055416107178}
 probe_wall_other val loss: {6.977313995361328}
 probe_expert val loss: {69.60688781738281}
 # number of trainable parameters of your model: 3,314,304
-# training command to replicate your submitted model:
-python train_encoder.py
-python train_predictor.py
+# training command to replicate your submitted model: python train_predictor.py
