@@ -1,0 +1,64 @@
+antlr4-python3-runtime==4.8
+asttokens==2.4.1
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+comm==0.2.2
+cycler==0.12.1
+debugpy==1.8.8
+decorator==5.1.1
+einops==0.8.0
+exceptiongroup==1.2.2
+executing==2.1.0
+filelock @ file:///croot/filelock_1700591183607/work
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645438755360/work
+idna @ file:///croot/idna_1714398848350/work
+importlib_metadata==8.5.0
+ipykernel==6.29.5
+ipython==8.18.1
+jedi==0.19.2
+Jinja2 @ file:///croot/jinja2_1730902924303/work
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+kiwisolver==1.4.7
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.4.2
+matplotlib-inline==0.1.7
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+nest-asyncio==1.6.0
+networkx @ file:///croot/networkx_1717597493534/work
+numpy==1.23.5
+omegaconf==2.1.2
+packaging==24.2
+parso==0.8.4
+pexpect==4.9.0
+pillow @ file:///croot/pillow_1721059439630/work
+platformdirs==4.3.6
+prompt_toolkit==3.0.48
+psutil==6.1.0
+ptyprocess==0.7.0
+pure_eval==0.2.3
+Pygments==2.18.0
+pyparsing==3.2.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.9.0.post0
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+pyzmq==26.2.0
+requests @ file:///croot/requests_1730999120400/work
+six==1.16.0
+stack-data==0.6.3
+sympy @ file:///croot/sympy_1724938189289/work
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+tornado==6.4.1
+tqdm==4.65.0
+traitlets==5.14.3
+triton==3.1.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+urllib3 @ file:///croot/urllib3_1727769808118/work
+wcwidth==0.2.13
+zipp==3.21.0
