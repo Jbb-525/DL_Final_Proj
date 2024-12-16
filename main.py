@@ -76,7 +76,7 @@ def load_model():
     """Load or initialize the model."""
     # TODO: Replace MockModel with your trained model
     model = JEPA(repr_dim=256).to(device)
-    model.load_state_dict(torch.load('JEPA.pth', weights_only=True)['model_state_dict'])
+    model.load_state_dict(torch.load('model_weights.pth', weights_only=True)['model_state_dict'])
     model.eval()
     return model
 
